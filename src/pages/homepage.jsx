@@ -277,7 +277,7 @@ export default class HomePage extends React.Component {
                   <strong>0 km</strong>
                 </div>
                 <div>
-                  <strong>10,000 km</strong>
+                  <strong>10,0000 km</strong>
                 </div>
               </div>
             </div>
