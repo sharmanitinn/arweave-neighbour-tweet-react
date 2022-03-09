@@ -221,7 +221,7 @@ export default class NeighbourPage extends React.Component {
                   </div>
                 ) : null}
               </div>
-              <hr className="my-2" />
+              <hr className="my-3 testing-2" />
               {this.state.allTweets.map((tweets, index) => (
                 <Tweet
                   key={index}
