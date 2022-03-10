@@ -16,4 +16,5 @@ input[type="color"]:focus,
 .uneditable-input:focus {
   border-color: none;
   outline: 0 none;
+  
 }
