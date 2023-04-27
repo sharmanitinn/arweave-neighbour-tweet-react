@@ -66,7 +66,7 @@ export default class CommentModal extends React.Component {
         <div className="modal-dialog modal-dialog-centered">
           <div className="modal-content">
             <div className="modal-header bg-light">
-              <h5 className="modal-title">Comment</h5>
+              <h5 className="modal-title">Comments</h5>
               <button
                 type="button"
                 className="close"
